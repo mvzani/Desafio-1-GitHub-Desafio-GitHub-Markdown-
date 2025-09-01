@@ -32,19 +32,19 @@
 4. ### **Formatação com Markdown.**
 
 - **Edite o arquivo "README.md" em seu repositório.**
-  - [ ] Realizado.
-  - [ ] Não Realizado.
+
+  - [ ok ] Realizado.
 <br></br>
 - **Utilize a limguagem Markdown para formatar informações sobre o desafio, instruções e uma breve descrição de seu projeto.**
-  - [ ] Realizado.
+  - [ ok ] Realizado.
 
-  - [ ] Não Realizado.
+  <p>Foi realizado as alterações sujeridas e em relaçao ao meu projeto; estou analizando possibilidades e descobrindo formas e meios para executar meus objetivos com a ajuda das ferramentas que estou aprendendo.</p>
 
 5. ### **Como desafio estra.**
 
 - **Sugiro que vocês se autentiquem utilizando algum método de segurança oferecido pelo Github.**
-  - [ ] Realizado.
-  - [ ] Não Realizado.
+  - [ ok ] Realizado.
+    - **Foi realizado/gerado como forma de segurança um TOKEN.**
 <br></br>
 - **Crie branches para o seu projeto e realizem "MERGE" das alterações.**
   - [ ] Realizado.
