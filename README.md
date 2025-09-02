@@ -47,8 +47,8 @@
     - **Foi realizado/gerado como forma de segurança um TOKEN.**
 <br></br>
 - **Crie branches para o seu projeto e realizem "MERGE" das alterações.**
-  - [ ] Realizado.
-  - [ ] Não Realizado.
+
+  - [ ok ] Realizado.
 <br></br>
 - Treinem os comandos do Git, afinal, eles fazem parte do dia a dia de um desenvolvedor(a), colaborativo.
 
