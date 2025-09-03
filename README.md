@@ -43,6 +43,7 @@
 5. ### **Como desafio estra.**
 
 - **Sugiro que vocês se autentiquem utilizando algum método de segurança oferecido pelo Github.**
+
   - [ ok ] Realizado.
     - **Foi realizado/gerado como forma de segurança um TOKEN.**
 <br></br>
